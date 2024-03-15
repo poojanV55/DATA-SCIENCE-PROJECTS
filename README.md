@@ -1,5 +1,5 @@
 # DATA-SCIENCE-PROJECTS
-You can peek into my secret laboratory of ongoing and completed data science and machine learning projects right here!
+You can peek into my secret laboratory of ongoing and completed data science right here!
 
 | Index | Project Name | Link to Project |
 |----------|----------|----------|
