@@ -1,5 +1,5 @@
 # DATA-SCIENCE-PROJECTS
-You can find all my ongoing and completed projects of data science and machine learning here.
+You can peek into my secret laboratory of ongoing and completed data science and machine learning projects right here!
 
 | Index | Project Name | Link to Project |
 |----------|----------|----------|
@@ -7,6 +7,6 @@ You can find all my ongoing and completed projects of data science and machine l
 | 2 | Predictive Analysis of Hospital Readmission Rates using Classification Techniques | https://github.com/poojanV55/Predictive-Analysis-of-Hospital-Readmission-Rates-using-Classification-Techniques |
 | 3 | User Vehicle Insurance Classification | https://github.com/poojanV55/User_Vehicle_Insurance_Classification |
 | 4 | Data Analysis on Ames Housing Dataset | https://github.com/poojanV55/Data-Analysis-on-Ames-Housing-Dataset |
-| 6 | Plant Leaf Disease Detection | (Currently working on it) |
+| 6 | Plant Leaf Disease Detection | (I'm currently in the project trenches, battling code gremlins and data dragons!) |
 
 
